@@ -1,5 +1,5 @@
 # gidle-profile-page
-(G)I-DLE Profile Page in simple website. This website created for Submission Dicoding Class: Belajar Dasar Pemrograman Web.
+(G)I-DLE Profile Page in simple website. This website created for **Submission Dicoding Class: Belajar Dasar Pemrograman Web**.
 
 ## Components
 * HTML (HTML5)
